@@ -24,14 +24,14 @@ I am **Abhiram Padhi**, a Full-Stack Developer with a deep focus on **.NET Core*
 - 💻 **CRUD Sample Project**: A full-stack application using Angular and .NET 8 with best practice implementations. [Check it out here]([https://github.com/your-CRUD-project-link](https://github.com/abhirampadhi/.NETCore-WebAPI-AngularCRUD)).
 - 🛠 **TechTalksByAbhiram**: A blog dedicated to reviewing and ranking the latest gadgets and tools. [Visit my blog](https://TechTalksByAbhiram.github.io).
 
-### 📝 Latest Blog Posts on [TechTalksByAbhiram](https://TechTalksByAbhiram.github.io)
+### 📝 Latest Blog Posts on [TechTalksByAbhiram](https://abhirampadhi.github.io)
 1. **Top 5 Laptops for Developers in 2024** – Find the best laptops for coding, with a focus on performance and value.
 2. **Must-Have Tools for Web Developers in 2024** – A curated list of tools that every web developer should know.
 3. **Angular Signals: The Future of Reactive Programming** – An introduction to using signals in Angular for efficient state management.
 
 ### 📫 Connect with Me
 - 🌐 [Personal Website](https://abhirampadhi.github.io)
-- 📝 [Tech Blog](https://TechTalksByAbhiram.github.io)
+- 📝 [Tech Blog](https://abhirampadhi.github.io#blog)
 - 💬 [LinkedIn](https://www.linkedin.com/in/abhiraampadhi/)
 
 ---
