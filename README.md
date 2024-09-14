@@ -17,15 +17,6 @@ I am **Abhiram Padhi**, a passionate developer and technology enthusiast with a 
   - Optimizing application performance and best practices for building scalable systems.
 - ⚡ Fun fact: I love technology, constantly reviewing the latest gadgets, and always stay updated with cutting-edge tools.
 
-### ✨ Projects and Contributions
-- 💻 **CRUD Sample Project**: A full-stack application using Angular and .NET 8 with best practice implementations. [Check it out here](https://github.com/your-CRUD-project-link).
-- 🛠 **TechTalksByAbhiram**: A blog dedicated to reviewing and ranking the latest gadgets and tools. [Visit my blog](https://github.com/TechTalksByAbhiram).
-
-### 📝 Latest Blog Posts on [TechTalksByAbhiram](https://github.com/TechTalksByAbhiram)
-1. **Top 5 Laptops for Developers in 2024** – Find the best laptops for coding, with a focus on performance and value.
-2. **Must-Have Tools for Web Developers in 2024** – A curated list of tools that every web developer should know.
-3. **Angular Signals: The Future of Reactive Programming** – An introduction to using signals in Angular for efficient state management.
-
 ### 💼 My Skills
 - **Languages**: TypeScript, JavaScript, C#, HTML, CSS, SQL
 - **Frameworks**: Angular, .NET Core, ASP.NET, Bootstrap
