@@ -12,7 +12,7 @@ I am Abhiram Padhi, a passionate developer and tech enthusiast working on projec
 
 ### Connect with Me
 - [Personal Website](#) (In development)
-- [Tech Blog](https://github.com/TechTalksByAbhiram)
+- [Tech Blog]([https://github.com/TechTalksByAbhiram](https://techtalksbyabhiram.github.io/)) (In development)
 
 ---
 
