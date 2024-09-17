@@ -18,7 +18,9 @@ I am **Abhiram Padhi**, a Full-Stack Developer with a deep focus on **.NET Core*
 - ⚡ Fun fact: I’m a Microsoft Azure Certified professional who loves experimenting with cloud solutions and the latest development tools.
 
 ### 💼 My Skill Set
-- **Full-Stack Developer** | **.NET Core** | **.NET** | **C#** | **Cloud** | **Azure** | **Azure DevOps** | **Microservices** | **Angular** | **Microsoft Azure Certified**
+- Full-Stack Development: .NET Core, .NET Framework, C#, Angular
+- Cloud & DevOps: Azure, Azure DevOps, CI/CD Pipelines
+- Architecture & Design: Microservices, DDD, SOLID Principles
 
 ### ✨ Projects and Contributions
 - 💻 **CRUD Sample Project**: A full-stack application using Angular and .NET 8 with best practice implementations. [Check it out here]([https://github.com/your-CRUD-project-link](https://github.com/abhirampadhi/.NETCore-WebAPI-AngularCRUD)).
