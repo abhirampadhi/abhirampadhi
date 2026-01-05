@@ -29,7 +29,7 @@ I am **Abhiram Padhi**, a Full-Stack Developer with a deep focus on **.NET Core*
 
 ### 📫 Connect with Me
 - 🌐 [Personal Website](https://abhirampadhi.github.io)
-- 📝 [Tech Blog](https://abhirampadhi.github.io/blog.html)
+- 📝 [Tech Blog](https://abhirampadhi.github.io/blogs/blog.html)
 - 💬 [LinkedIn](https://www.linkedin.com/in/abhiraampadhi/)
 
 
